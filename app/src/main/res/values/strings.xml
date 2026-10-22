@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claude Usage</string>
+    <string name="cancel">Cancel</string>
+    <string name="notif_channel">Sign-in</string>
+    <string name="notif_waiting_title">Waiting for sign in</string>
+    <string name="notif_waiting_text">Finish signing in to Claude in your browser.</string>
+    <string name="notif_signed_in">Signed in. Your usage will appear shortly.</string>
+    <string name="notif_sign_in_failed">Sign-in failed. Open the app to try again.</string>
+    <string name="widget_usage_label">Claude usage</string>
+    <string name="widget_compact_label">Claude usage (compact)</string>
+    <string name="widget_usage_description">All limits with reset countdowns</string>
+    <string name="widget_compact_description">Session and weekly usage at a glance</string>
+</resources>
